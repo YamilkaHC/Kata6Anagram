@@ -1,0 +1,7 @@
+C:\Users\maria\source\repos\Kata6Anagrama\Kata6Anagrama\bin\Debug\Kata6Anagrama.exe.config
+C:\Users\maria\source\repos\Kata6Anagrama\Kata6Anagrama\bin\Debug\Kata6Anagrama.exe
+C:\Users\maria\source\repos\Kata6Anagrama\Kata6Anagrama\bin\Debug\Kata6Anagrama.pdb
+C:\Users\maria\source\repos\Kata6Anagrama\Kata6Anagrama\obj\Debug\Kata6Anagrama.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\Kata6Anagrama\Kata6Anagrama\obj\Debug\Kata6Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Kata6Anagrama\Kata6Anagrama\obj\Debug\Kata6Anagrama.exe
+C:\Users\maria\source\repos\Kata6Anagrama\Kata6Anagrama\obj\Debug\Kata6Anagrama.pdb
